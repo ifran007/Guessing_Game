@@ -1,0 +1,21 @@
+/*-------------------------
+Footer start
+-------------------------*/
+
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    width: 0px;
+}
+
+.bottom-container a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.bottom-container p{
+    color: white;
+    margin-top: 20px;
+}
